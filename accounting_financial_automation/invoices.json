@@ -1,0 +1,42 @@
+[
+    {
+        "invoice_number": "101",
+        "date": "2025/07/31",
+        "client": {
+            "name": "SJN",
+            "email": "sjn@gmail.com",
+            "address": "NULL"
+        },
+        "items": [
+            {
+                "description": "Automation",
+                "quantity": 1,
+                "unit_price": 100.0
+            }
+        ],
+        "subtotal": 100.0,
+        "tax": 10.0,
+        "total": 110.0,
+        "status": "draft"
+    },
+    {
+        "invoice_number": "102",
+        "date": "2025/07/31",
+        "client": {
+            "name": "JEEVA",
+            "email": "jeeva@gmail.com",
+            "address": "NULL"
+        },
+        "items": [
+            {
+                "description": "Goauto",
+                "quantity": 1,
+                "unit_price": 100.0
+            }
+        ],
+        "subtotal": 100.0,
+        "tax": 10.0,
+        "total": 110.0,
+        "status": "draft"
+    }
+]

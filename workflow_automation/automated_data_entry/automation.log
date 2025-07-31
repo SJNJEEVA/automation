@@ -1,0 +1,4 @@
+2025-07-26 18:35:41,899 - INFO - Starting automated data entry process.
+2025-07-26 18:35:41,960 - INFO - Read 3 rows from input.csv
+2025-07-26 18:35:41,974 - INFO - Output saved to output.csv
+2025-07-26 18:35:57,214 - INFO - Notification email sent successfully.

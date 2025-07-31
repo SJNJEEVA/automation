@@ -1,0 +1,4 @@
+Name,Email,Amount,Status
+Alice,alice@@email.com,100,Invalid Email
+Bob,bob@email.com,200,Valid
+Charlie,charlie@email.com,150,Valid

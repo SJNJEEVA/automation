@@ -1,0 +1,10 @@
+[
+    {
+        "employee_id": "1",
+        "name": "SJN",
+        "position": "HR",
+        "gross_pay": 10000.0,
+        "tax": 1000.0,
+        "net_pay": 9000.0
+    }
+]

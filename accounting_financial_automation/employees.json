@@ -1,0 +1,9 @@
+[
+    {
+        "id": "1",
+        "name": "SJN",
+        "position": "KR",
+        "monthly_salary": 1000.0,
+        "tax_rate": 0.1
+    }
+]
